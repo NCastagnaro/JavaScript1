@@ -1,5 +1,5 @@
 let height =8;
-let x = "x";       //set a variable for x
+let x = "x";        //set a variable for x
 let space = "\xa0"; //This allows you to create a variable for a space.
 
 //We start at i=1, so that way when we include the spaces for each row, it is just height-i, which is neater than if we did height-i-1, if we started at i=0
