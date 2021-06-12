@@ -1,5 +1,5 @@
 //Mario Backwards Pyramid with Nested for loops
-function mario(h){
+function mario(h)
     let space = " ";
     let star = "*";
     for (let i=0; i<h; i++){
