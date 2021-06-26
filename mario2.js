@@ -1,5 +1,5 @@
 let height =8;
-let x = "x";       //Set a variable for x
+let x = "x";       //Set a variable for x.
 let space = "\xa0"; //This allows you to create a variable for a space.
 let space2 = "\xa0\xa0" //This allows you to create the double space in the middle. 
 
